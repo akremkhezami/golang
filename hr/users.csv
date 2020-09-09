@@ -1,0 +1,3 @@
+name,id,home,shell
+nobody,65534,/nonexistent,/usr/sbin/nologin
+akrem,1000,/home/akrem,/bin/bash

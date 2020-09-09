@@ -1,0 +1,20 @@
+(package main
+
+import "fmt"
+
+func main() {
+
+
+	ages := map[string]int {}
+	ages["keuth"] = 77
+	if ages["keuth"] < 66 {
+
+fmt.Println(ages)	
+fmt.Println("Kevin is not of retirment age")
+
+} else { 
+	fmt.Println("Kevin has retired")
+	}
+
+
+}
